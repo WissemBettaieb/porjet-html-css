@@ -1,0 +1,78 @@
+/*hero*/
+
+#hero{
+    background-color: #E7D2CC;
+    background-image: url(../images/tunisia.jpg);
+
+    
+    color: #050A30;
+    text-align: center;
+    padding: 10px;
+    height: 300px;
+    position: relative;
+    width: 98.5%;
+
+   
+    
+
+    
+
+    
+}
+#hero .herotitle{
+background-color: black;
+
+padding: 4px ;
+color: white;
+opacity: 0.5;
+margin-top: 70px;
+
+position: absolute ;
+top: 3em ;
+right: 0.1em;
+width: 100%;
+
+}
+body{
+    padding: 0;
+    margin: 0;
+
+}
+#hero h1{
+    font-size: 45px;
+}
+#hero p {
+    font-size: 35px ;
+}
+/*navbar*/
+.menu{
+    list-style-type: none;
+    padding: 0;
+    
+    margin: 0;
+    background-color: #000;
+
+
+
+    
+
+    ;
+}
+.menu li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 20px;
+    padding-right: 10px;
+    border-right: 1px solid white ;
+    color: white;
+}
+
+/*trips section */
+.trips-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
